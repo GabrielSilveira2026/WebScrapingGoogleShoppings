@@ -1,0 +1,49 @@
+// $(".sh-np__click-target").each(async (i, el) => {
+//     let linkRedirecionado
+//     try {
+//         linkRedirecionado = await unirest.get("https://www.google.com" + $(el).attr("href"))
+//         linkRedirecionado = linkRedirecionado.request.uri.href
+//     } catch (error) {
+//         console.log("Erro");
+//         logger.log(error);
+//     }
+//     ads.push({
+//         title: $(el).find(".sh-np__product-title").text(),
+//         link: linkRedirecionado,
+//         source: $(el).find(".sh-np__seller-container").text(),
+//         price: $(el).find(".hn9kf").find(".T14wmb").text(),
+//     })
+//     // if ($(el).find(".rz2LD").length) {
+//     //     let extensions = []
+//     //     extensions = $(el).find(".rz2LD").text()
+//     //     ads[i].extensions = extensions
+//     //     console.log(extensions);
+//     // }
+// })
+
+// try {
+//     let linkAxios = await axios.get("https://www.google.com/aclk?sa=l&ai=DChcSEwj6pMC5xrL9AhUBxpEKHRcyAacYABABGgJjZQ&sig=AOD64_0CjfC6r6GsFM9zt8Xm6LBTxssyug&ctype=5&q=&ved=0ahUKEwjbhr25xrL9AhUXL7kGHT0pCwIQww8I6As&adurl=")
+//     logger.log(linkAxios.request.res.responseUrl)
+//     console.log("Foi");
+// } catch (error) {
+//     console.log("Erro");
+//     logger.log(error);
+// }
+
+// try {
+//     let uni = await unirest.get("https://www.google.com/aclk?sa=l&ai=DChcSEwiN3aW807P9AhVE5VwKHRZ4C2MYABATGgJjZQ&sig=AOD64_3yD3esGOmwlzT9r4KZC23kq6EhNw&ctype=5&q=&ved=0ahUKEwiNoqK807P9AhWbBbkGHT9LBysQ9A4I4BM&adurl=")
+//     logger.log(uni)
+//     console.log("Foi", uni.request.uri.href + "&p=29905");
+// } catch (error) {
+//     console.log("Erro");
+//     logger.log(error);
+// }
+
+// let linkRedirecionado
+// try {
+//     linkRedirecionado = await unirest.get("https://www.google.com" + $(el).attr("href"))
+//     linkRedirecionado = linkRedirecionado.request.uri.href
+// } catch (error) {
+//     console.log("Erro");
+//     logger.log(error);
+// }
