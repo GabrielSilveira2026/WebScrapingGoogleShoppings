@@ -1,0 +1,51 @@
+[
+  {
+    title: 'Kingstone KVR16N118 - Memória de 8GB DIMM DDR3 1600Mhz 1,5V 2Rx8 para desktop',
+    link: 'https://www.amazon.com.br/Kingstone-KVR16N118-Mem%C3%B3ria-1600Mhz-desktop/dp/B0089JIDLC/ref=asc_df_B0089JIDLC/?tag=googleshopp00-20&linkCode=df0&hvadid=379726646152&hvpos=&hvnetw=g&hvrand=12649009965734703337&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-404766535839&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 100,00',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJILu4hysbmDiVGfO6rUTlD8gWuZpC2mlUU-afwXkR7QtAH6_sEqeBttFrcr4vxzWzgeYURaXaE2Rjql5Oe-2zFU6PuqHeqiM8N11iNxuckZCZ8shg2Rqn&usqp=CAE'
+  },
+  {
+    title: 'NAS Asustor - AS6706T - 60TB - Intel Quad-Core 2.0 GHz - 8GB DDR4 - 2x 2.5GbE - Inclui 6 HDs NAS de 10TB',
+    link: 'https://www.fourserv.com.br/nas-asustor-as6706t-60tb-intel-quad-core-2-0-ghz-8gb-ddr4-2x-2-5gbe-inclui-6-hds-nas-de-10tb?utm_source=google-shopping&utm_medium=cpc&utm_campaign=google-shopping&utm_source=google-pmax&utm_medium=cpc&utm_campaign=pmax-altovalor&gclid=EAIaIQobChMI57KsrNW0_QIVDtORCh2QpAZzEAQYAiABEgIfdPD_BwE',
+    source: 'FourServ',
+    price: 'R$ 19.549,15',
+    image: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfi5mBcJFmjNe3YDzqnaWLOdk68Y_vUZ476vDeaYyBl76FoTGf_hfQ5PEq35LX2OE54Hva944TAAiCfKB0zeuDQW0XNMD6_OHsDoXlYag_A-MNYj7M4Kkf&usqp=CAE'
+  },
+  {
+    title: 'KF432C16BBA/8 - Memória de 8GB DIMM DDR4 3200Mhz FURY Beast RGB 1,35V 1Rx8 288 pinos para desktop/gamers',
+    link: 'https://www.amazon.com.br/KF432C16BBA-Mem%C3%B3ria-3200Mhz-desktop-gamers/dp/B097J32MJM/ref=asc_df_B097J32MJM/?tag=googleshopp00-20&linkCode=df0&hvadid=379787220407&hvpos=&hvnetw=g&hvrand=12649009965734703337&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1399394277818&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 240,00',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMYkKaX3yNryfxR0ugSVQO0pTrailBaPV4OMTAdNmS_zWRTPnDIw4f9HJCA0T8QnRXgkJjK0FeZSrLfmr722mIeMcLddgSr73E-T6APxbzhI2-QndwWkme6w&usqp=CAE'
+  },
+  {
+    title: 'Memória Kingston Fury Beast 8Gb DDR4 2666 mhz - KF426C16BB/8',
+    link: 'https://www.teitec.com.br/memoria-kingston-fury-beast-8gb-ddr4-2666-mhz-kf426c16bb8?gclid=EAIaIQobChMI57KsrNW0_QIVDtORCh2QpAZzEAQYBCABEgL8W_D_BwE',
+    source: 'Teitec',
+    price: 'R$ 151,00',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTx6yKKOFpI9TuivMud4I036MwRkZ7-RHVgkGWLRPx5JWvNowY5Ihcv1w5F5K3x8UJCHJ3NdNK1Pe9wPX4c8Juwa9kuBHPMfXOBl0_6j1sQ2FChpgNxb-MJ&usqp=CAE'
+  },
+  {
+    title: 'Memória DDR4 Kingston Fury Beast, 8GB, 3200Mhz, Black, KF432C16BB/8',
+    link: 'https://www.terabyteshop.com.br/produto/19314/memoria-kingston-fury-beast-8gb-3200mhz-ddr4-black-kf432c16bb8?gclid=EAIaIQobChMI57KsrNW0_QIVDtORCh2QpAZzEAQYBSABEgJ3NPD_BwE',
+    source: 'Terabyteshop',
+    price: 'R$ 169,90',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRz-psVR9RflFh8OGaLzDjbUskwtCUnk37ogGxhgnx-CzKo-YY4PklFD_aEgJ4PXhrGbtm77VfbBJRo-KlP6idS-cPf0DdiieVgMMlAOpy1f6hyC6Ns9Tm4&usqp=CAE'
+  },
+  {
+    title: 'Corsair Kit de memória CMK8GX4M1A2666C16 Vengeance LPX 8GB (1x8GB) DDR4 DRAM 2666MHz (PC4-21300) C16 – Preto',
+    link: 'https://www.amazon.com.br/Mem%C3%B3ria-Corsair-Vengeance-2666MHz-CMK8GX4M1A2666C16/dp/B0123ZAQJE/ref=asc_df_B0123ZAQJE/?tag=googleshopp00-20&linkCode=df0&hvadid=379787220407&hvpos=&hvnetw=g&hvrand=12649009965734703337&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-305355810193&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 290,00',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR29Gv9Yb-k3K8LbrG2alNurSLiJ49j3y8u2CsHKG9O-j6Y3EB-w3JsBnAg7VeOZMvcZRXyRs5eQy4KY3kV-QUmY3gR2K62jCDknoPTR-CUkDCRhy_5SR_rkA&usqp=CAE'
+  },
+  {
+    title: 'Memória RAM Fury color preto 8GB 1 HyperX HX316C10FB/8',
+    link: 'https://www.mercadolivre.com.br/memoria-ram-fury-color-preto-8gb-1-hyperx-hx316c10fb8/p/MLB14728516?matt_tool=39437454&matt_word=&matt_source=google&matt_campaign_id=14303413652&matt_ad_group_id=125956125319&matt_match_type=&matt_network=g&matt_device=c&matt_creative=543112166618&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=644106556&matt_product_id=MLB14728516-product&matt_product_partition_id=1818033699058&matt_target_id=pla-1818033699058&gclid=EAIaIQobChMI57KsrNW0_QIVDtORCh2QpAZzEAQYByABEgKJ3vD_BwE',
+    source: 'Mercado Livre',
+    price: 'R$ 127,00',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRq6rjPYtDUryX5-8mkZziElDeI0CWBw1DTXr3Zs9V2puKUKGIgMj3hTRBpurrC3CsE1aSeKliSMeQqMeLlPTUqrdKF21ZERu-uYaBSb5pRUbKoVwuCElDx&usqp=CAE'
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    title: 'Placa de Vídeo GTX 1660 Super Twin Fan Zotac Gaming NVIDIA GeForce, 6 GB GDDR6 - ZT-T16620F-10L',
+    link: 'https://www.kabum.com.br/produto/110396/placa-de-video-gtx-1660-super-twin-fan-zotac-gaming-nvidia-geforce-6-gb-gddr6-zt-t16620f-10l?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYASABEgIO6vD_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.299,99',
+    image: 'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8OcEY0GOMCSkAPlJrP_XRCK7JcyJvBWbdJPFLwWdZm2q_7hsIHagCN692nsMy-7h5Mui64OR4SS1yP6WHHzS6Mmp7ANxg9aT8ZVZ-T1psbYZz7qFZPOCA&usqp=CAE'
+  },
+  {
+    title: 'Placa de Vídeo Galax NVIDIA GeForce GTX 1660 1-Click OC, 6GB, GDDR5 - 60SRH7DSY91C',
+    link: 'https://www.kabum.com.br/produto/101268/placa-de-video-galax-nvidia-geforce-gtx-1660-1-click-oc-6gb-gddr5-60srh7dsy91c?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYAiABEgILF_D_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.342,99',
+    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHW2P0lKYd6dRi-EJggybKH-RgfX999J7uLQeiS8E86TOGVwVQ58pHxveekhraQVnAAW1EFao8_vxVNd9TtWcbn3veB-GXjBpvr9O3W8i1lI9LUCPW3hGL&usqp=CAE'
+  },
+  {
+    title: 'Placa de Video MSI GeForce GTX 1650 Ventus XS OC, 4GB, GDDR5, 128-bit, 912-V809-3060',
+    link: 'https://www.pichau.com.br/placa-de-video-msi-geforce-gtx-1650-ventus-xs-oc-4gb-gddr5-128-bit-912-v809-3060?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYAyABEgLd9_D_BwE',
+    source: 'Pichau',
+    price: 'R$ 959,99',
+    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFTMjn6tUzMgxsbphxxRqbNVdXkf5M4ce9fMOJYR0fZzLOCc1T6Y42LbIErOqz3jLoi-NCNqFNzxJPjVsBW3rnuVNsbd2XLHICpKgalMGCCX43VoWjOr8M&usqp=CAE'
+  },
+  {
+    title: 'Placa de Vídeo Galax GTX1650EX GDDR6 4GB 128-Bit - 65SQL8DS66E6',
+    link: 'https://www.amazon.com.br/Placa-V%C3%ADdeo-Galax-GTX1650EX-128-Bit/dp/B08CQ8YGCW/ref=asc_df_B08CQ8YGCW/?tag=googleshopp00-20&linkCode=df0&hvadid=379816400582&hvpos=&hvnetw=g&hvrand=10842687537122428183&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1022697749677&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 1.163,40',
+    image: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTwqagNkFdaj2UFn2K5PEjiJ-HrS4JZhc1fgV9ljpXwlt7ZxeaSkt266EnPL3BS5DpQ9uextM7bO_pozrBqGO9cZRUt_Q08asbOWvIMCREoFZKonfHdcKXC&usqp=CAE'
+  },
+  {
+    title: 'Placa de Vídeo Zotac Gaming NVIDIA GeForce GTX 1650 OC, 4GB, GDDR6 - ZT-T16520F-10L',
+    link: 'https://www.kabum.com.br/produto/114370/placa-de-video-zotac-gaming-nvidia-geforce-gtx-1650-oc-4gb-gddr6-zt-t16520f-10l?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYBSABEgKZ4_D_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.059,99',
+    image: 'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3-DjMy92fzKKrvERgoncz5uomeXRg7-ic4CB17y01qWEFyDVrPHtjEZBmXTVZQVsAu03nWdqQtlLAcFR9X9Goy-2mnqqtaDX-Qg9kCmCIDrZuQ_dsjCiFWQ&usqp=CAE'
+  },
+  {
+    title: 'Placa de Vídeo Palit NVIDIA GeForce GTX 1660 Super StormX, 6GB, GDDR6, 192bit, NE6166S018J9-161F',
+    link: 'https://www.terabyteshop.com.br/produto/17607/placa-de-video-palit-nvidia-geforce-gtx-1660-super-stormx-6gb-gddr6-192bit-ne6166s018j9-161f?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYBiABEgL8ePD_BwE',
+    source: 'Terabyteshop',
+    price: 'R$ 1.299,00',
+    image: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6nH6xgBlM135xsFUmdA8J5_c1VFEb9_YOlG5tyhFnoMqohBTFKOW8EnvwUcxG3E5kRZEpSK1lijfnvJ6VXL19Pm42VRlJgEFRamqO6CXpaCPI5s-gekv7PQ&usqp=CAE'
+  },
+  {
+    title: 'Placa de Video Galax GeForce GTX 1650 EX -Click OC, 4GB, GDDR6, 128-bit, 65SQL8DS66E6-NAC',
+    link: 'https://www.pichau.com.br/placa-de-video-galax-geforce-gtx-1650-ex-click-oc-4gb-gddr6-128-bit-65sql8ds66e6-nac?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYByABEgICHfD_BwE',
+    source: 'Pichau',
+    price: 'R$ 999,00',
+    image: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSZ1kj4D6BLYlXW6uFDKSk5WF4h0hrLkZHhbvLRP1Qd6oI5bmjmzKOO0gCI7IDlv9X-rGQVtSK8VLZMnb1rge10URobmKnYYPOOZ2N2SVU4TvryD9YVKZB7&usqp=CAE'
+  },
+  {
+    title: 'MSI GeForce GTX 1660 Super Gaming X NVIDIA 6GB GDDR6 Placa gráfica',
+    link: 'https://www.amazon.com.br/MSI-GeForce-Gaming-NVIDIA-gr%C3%A1fica/dp/B07ZPM3388/ref=asc_df_B07ZPM3388/?tag=googleshopp00-20&linkCode=df0&hvadid=379787213900&hvpos=&hvnetw=g&hvrand=10842687537122428183&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-844953810153&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 2.149,90',
+    image: 'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRwfpRWw77HhFi3l20VJSWLpuA5Dn-xXaI6CEKiu7LTKSvku3i6jPA7XZ0SOGWJZ4PsoplSb6MVMXrPw1b46aqEhtZPpRaMDdSWhjHNfe5GyRYv-NwrLzAL_A&usqp=CAE'
+  },
+  {
+    title: 'Placa de Vídeo GTX 1660 Ti O6G EVO OC Asus TUF Gaming NVIDIA Geforce, 6GB GDDR6, Preto - TUF-GTX1660TI-O6G-EVO-GAMING',
+    link: 'https://www.kabum.com.br/produto/270812/placa-de-video-gtx-1660-ti-o6g-evo-oc-asus-tuf-gaming-nvidia-geforce-6gb-gddr6-preto-tuf-gtx1660ti-o6g-evo-gaming?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYCSABEgJ1CfD_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.599,99',
+    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdbwGzcvaDkBOzO8Zx4h9F3ZB_tt1Hm8KzxrPkX76rUEyJwvS21DZQ5aZw9Kj2P5cf_YVX1f5dQq4kK7Y7AuWTWuNNCIBkJmVHVyAOzZ09yTLF8izN06ji&usqp=CAE'
+  },
+  {
+    title: 'Placa de Video Colorful GeForce gtx 1660 Super nb 6GB GDDR6 192bit',
+    link: 'https://magaazineeluiza.myshopify.com/products/placa-de-video-colorful-geforce-gtx-1660-super-nb-6gb-gddr6-192bit?currency=BRL&variant=44591263973678&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYCiABEgLlfPD_BwE',
+    source: 'magalu',
+    price: 'R$ 1.187,19',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo GTX 1660 SC Ultra Gaming EVGA NVIDIA GeForce 6GB, GDDR5 - 06G-P4-1067-KR',
+    link: 'https://www.kabum.com.br/produto/102130/placa-de-video-gtx-1660-sc-ultra-gaming-evga-nvidia-geforce-6gb-gddr5-06g-p4-1067-kr?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYCyABEgKzYPD_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.449,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX, 1-Click OC, 4GB, GDDR6, 128Bit, 65SQL8DS66E6',
+    link: 'https://www.terabyteshop.com.br/produto/13780/placa-de-video-galax-geforce-gtx-1650-ex-1-click-oc-4gb-gddr6-128bit-65sql8ds66e6?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYDCABEgJec_D_BwE',
+    source: 'Terabyteshop',
+    price: 'R$ 999,00',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo ZOTAC GAMING GeForce GTX 1650 AMP Core, 12 Gbps, 4GB, GDDR6 - ZT-T16520J-10L',
+    link: 'https://www.kabum.com.br/produto/148657/placa-de-video-zotac-gaming-geforce-gtx-1650-amp-core-12-gbps-4gb-gddr6-zt-t16520j-10l?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYDSABEgKOq_D_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.099,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de video nvidia GTX1650 4GB ex 1CLICK oc G5 128B galax 65SQL8DS66E6 - gpu gtx 1650',
+    link: 'https://magaazinneluiza.myshopify.com/products/placa-de-video-nvidia-gtx1650-4gb-ex-1click-oc-g5-128b-galax-65sql8ds66e6-gpu-gtx-1650?currency=BRL&variant=44510159044903&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYDiABEgIMMvD_BwE',
+    source: 'Magziine',
+    price: 'R$ 629,10',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Video Zotac GeForce GTX 1650 AMP Core, 4GB, GDDR6, 128-bit, ZT-T16520J-10L',
+    link: 'https://www.pichau.com.br/placa-de-video-zotac-geforce-gtx-1650-amp-core-4gb-gddr6-128-bit-zt-t16520j-10l?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAQYDyABEgIvgPD_BwE',
+    source: 'Pichau',
+    price: 'R$ 999,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Video MSI GeForce GTX 1650 4GB D6 Gaming X GDDR6 128-bit, 912-V387-002',
+    link: 'https://www.pichau.com.br/placa-de-video-msi-geforce-gtx-1650-4gb-d6-gaming-x-gddr6-128-bit-912-v387-002?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAsYASABEgJGRPD_BwE',
+    source: 'Pichau',
+    price: 'R$ 999,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo GTX 1660 Super Gaming X MSI NVIDIA GeForce, 6GB, GDDR6 - Geforce GTX 1660 Super GAMING X',
+    link: 'https://www.kabum.com.br/produto/108350/placa-de-video-gtx-1660-super-gaming-x-msi-nvidia-geforce-6gb-gddr6-geforce-gtx-1660-super-gaming-x?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAsYAiABEgJOsfD_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.499,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX Plus (1-Click OC), 4GB, GDDR6 - 65SQL8DS93E1',
+    link: 'https://www.kabum.com.br/produto/115753/placa-de-video-galax-nvidia-geforce-gtx-1650-ex-plus-1-click-oc-4gb-gddr6-65sql8ds93e1?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAsYAyABEgIBR_D_BwE',
+    source: 'KaBuM!',
+    price: 'R$ 1.199,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Mllse Placa de vídeo RX580 8GB GDDR5 PCI Express X16 Com BIOS Para Jogos DP/HDMI/DVI Saída de 60Hz Resolução 4K Ventiladores Duplos de Refrigeração',
+    link: 'https://www.amazon.com.br/Express-Resolu%C3%A7%C3%A3o-Ventiladores-Duplos-Refrigera%C3%A7%C3%A3o/dp/B0BCJYX4RT/ref=asc_df_B0BCJYX4RT/?tag=googleshopp00-20&linkCode=df0&hvadid=379726213405&hvpos=&hvnetw=g&hvrand=10842687537122428183&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1758985605100&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 899,00',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo Palit NVIDIA GeForce GTX 1660 Super GP, 6GB, GDDR6, 192bit, NE6166S018J9-1160A-1',
+    link: 'https://www.terabyteshop.com.br/produto/17609/placa-de-video-palit-nvidia-geforce-gtx-1660-super-gp-6gb-gddr6-192bit-ne6166s018j9-1160a-1?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAsYBSABEgLt-PD_BwE',
+    source: 'Terabyteshop',
+    price: 'R$ 1.399,00',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de vídeo Radeon rx 580 8GB GDDR5 256 Bit RX580-8GD5 Snake',
+    link: 'https://www.americanas.com.br/produto/4864542051?epar=bp_pl_px_go_pmax_pcgamer_3p_pa&opn=YSMESP&WT.srch=1&offerId=6244563887c00289c2881108&gclsrc=aw.ds&gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAsYBiABEgI1lPD_BwE',
+    source: 'Americanas.com',
+    price: 'R$ 999,00',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Vídeo GALAX - GeForce GTX 1660 OC, 6GB GDDR5',
+    link: 'https://www.amazon.com.br/Placa-V%C3%ADdeo-NVIDIA-1660-GALAX/dp/B07Q1358K1/ref=asc_df_B07Q1358K1/?tag=googleshopp00-20&linkCode=df0&hvadid=379787213900&hvpos=&hvnetw=g&hvrand=10842687537122428183&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-810002469299&psc=1',
+    source: 'Amazon.com.br',
+    price: 'R$ 1.649,90',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  },
+  {
+    title: 'Placa de Video Asus GeForce GTX 1650 TUF Gaming OC, 4GB, GDDR6, 128-bit, TUF-GTX1650-O4GD6-P-GAMING-NAC',
+    link: 'https://www.pichau.com.br/placa-de-video-asus-geforce-gtx-1650-tuf-gaming-oc-4gb-gddr6-128-bit-tuf-gtx1650-o4gd6-p-gaming-nac?gclid=EAIaIQobChMI-JCKgq60_QIVb09IAB1H5ATGEAsYCCABEgIDJPD_BwE',
+    source: 'Pichau',
+    price: 'R$ 1.159,99',
+    image: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+  }
+]
