@@ -64,12 +64,11 @@ const getShoppingData = async() => {
 }
 // getShoppingData();
 
-
 async function funcaoShoppingData(produto){
 
     try {
         let response = await unirest
-            .get(`https://www.google.com/search?q=${produto}&tbm=shop&gl=br&hl=pt`)
+            .get(`https://www.google.com/search?q=${produto}&tbm=shop&site=br&lr=lang_pt+-site:mercadolivre.com.br+-site:aliexpress.com+-site:ebay.com`)
             .headers({
                 "User-Agent":
                     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.73"
@@ -86,9 +85,9 @@ async function funcaoShoppingData(produto){
                 linkRedirecionado = await unirest.get("https://www.google.com" + $(el).attr("href"))
                 linkRedirecionado = linkRedirecionado.request.uri.href
                 indice = linkRedirecionado.indexOf('?gclid')
-                // if (indice !== -1) {
-                //     linkRedirecionado= linkRedirecionado.substring(0,indice)
-                // }
+                if (indice !== -1) {
+                    linkRedirecionado= linkRedirecionado.substring(0,indice)
+                }
                 // indice = linkRedirecionado.indexOf('?')
                 // if (indice === -1) {
                 //     linkRedirecionado = linkRedirecionado + "?p=29905"
@@ -131,7 +130,7 @@ async function funcaoShoppingData(produto){
 }
 
 const main = async() => {
-    let resposta = await funcaoShoppingData("8gb ram ddr4")
+    let resposta = await funcaoShoppingData("1tb HDD")
     logger.log(resposta)
 }
 
